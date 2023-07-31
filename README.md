@@ -79,7 +79,8 @@ else:
 
 UML Diagram: 
 
-<img width="750" alt="Screenshot 2023-07-31 at 14 06 07" src="https://github.com/lemondamselfish/BMRCalculatorMicroservice/assets/100961185/197718e1-8893-41ce-ab63-43b340e38ae3">
+<img width="583" alt="Screenshot 2023-07-31 at 14 14 07" src="https://github.com/lemondamselfish/BMRCalculatorMicroservice/assets/100961185/d4bdc572-3dac-4271-b169-76736dc224b5">
+
 
     
 
