@@ -10,13 +10,21 @@ REQUEST Data
 To request data from the microservice, you need to make an HTTP POST request to the appropriate endpoint. The microservice expects a JSON payload with the following parameters:
 
 Endpoint: /calculate_bmr
+
 HTTP Method: POST
+
 Content-Type: application/json
+
 Request Payload:
+
     weight (float): The weight of the person in kilograms (kg).
+    
     height (float): The height of the person in centimeters (cm).
+    
     age (integer): The age of the person in years.
+    
     sex (string): The sex of the person, either "male" or "female". 
+    
     (From my limited research, BMR Calculations regrettably do not account for intersex individuals. It is also 
     unclear to what extent these calculations should depend on a person's AGAB or current hormonal makeup)
     
